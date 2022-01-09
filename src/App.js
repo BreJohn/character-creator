@@ -7,8 +7,6 @@ import styles from './components/CharacterEditor/CharacterEditor.module.css';
 function App() {
   return (
     <>
-      <div className={styles.test}>
-      </div>
       <CharacterEditor />
       <Footer />
     </>
